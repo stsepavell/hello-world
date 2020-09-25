@@ -3,4 +3,5 @@
 <h2> Glad to see you here </h2>
 <p> Now, this is custom text I've just added </p>
 <hr>
-<h3>New Chapter In Our Journey</h3>
+<h3> New Chapter In Our Journey</h3>
+<p> Let see where it takes us</p>
