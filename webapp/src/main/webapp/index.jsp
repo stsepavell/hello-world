@@ -5,3 +5,4 @@
 <hr>
 <h3> New Chapter In Our Journey</h3>
 <p> Let see where it takes us</p>
+<p> I am sure, we are up for a nice trip </p>
